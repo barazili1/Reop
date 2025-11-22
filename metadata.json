@@ -1,0 +1,5 @@
+{
+  "name": "Admin Key Vault",
+  "description": "A professional admin dashboard for generating and managing permanent and temporary API keys, featuring AI-enhanced descriptions.",
+  "requestFramePermissions": []
+}
